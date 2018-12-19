@@ -3,7 +3,7 @@ FROM debian:9.5-slim
 LABEL "com.github.actions.name"="Hello World"
 LABEL "com.github.actions.description"="Hello World"
 LABEL "com.github.actions.icon"="mic"
-LABEL "com.github.actions.color"="black"
+LABEL "com.github.actions.color"="green"
 
 LABEL "repository"="https://github.com/YutaGoto/hello_github_action"
 LABEL "homepage"="https://github.com/YutaGoto/hello_github_action"
